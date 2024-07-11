@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imadafa
 - 👀 I’m interested in : discord bot, game dev and web dev
-- 🌱 I’m currently learning: Jave Script, C , C++
+- 🌱 I’m currently learning: Java Script, C , C++, Rust
 - 📫 How to reach me : yme7ir@gmail.com
 - ⚡ Fun fact: ...
 
